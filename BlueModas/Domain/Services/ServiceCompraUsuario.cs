@@ -1,4 +1,6 @@
-﻿using Entities.Entities;
+﻿using Domain.Interfaces.IntarfaceServices;
+using Domain.Interfaces.InterfaceCompraUsuario;
+using Entities.Entities;
 using Entities.Entities.Enums;
 using System;
 using System.Collections.Generic;

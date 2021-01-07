@@ -1,0 +1,8 @@
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\bin\Debug\netcoreapp3.1\Presentation.deps.json
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\bin\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\bin\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\obj\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Presentation\obj\Debug\netcoreapp3.1\Presentation.pdb

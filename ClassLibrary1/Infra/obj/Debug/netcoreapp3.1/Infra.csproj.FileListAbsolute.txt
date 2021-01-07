@@ -1,0 +1,9 @@
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Adryel\source\repos\BlueModas\ClassLibrary1\Infra\obj\Debug\netcoreapp3.1\Infra.pdb

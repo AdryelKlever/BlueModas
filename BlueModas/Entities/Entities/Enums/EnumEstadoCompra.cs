@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entities.Entities.Enums
 {
-    public class EnumEstadoCompra
+    public enum EnumEstadoCompra
     {
         Produto_Carrinho = 1,
         Produto_Comprado = 2,

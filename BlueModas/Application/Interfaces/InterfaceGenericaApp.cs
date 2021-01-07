@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces.Generics
+namespace Application.Interfaces
 {
-    public interface IGeneric<T> where T : class
+    public interface InterfaceGenericaApp<T> where T : class
     {
         Task Add(T Objeto);
         Task Update(T Objeto);

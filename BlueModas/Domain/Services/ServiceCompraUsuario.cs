@@ -1,5 +1,5 @@
-﻿using Domain.Interfaces.IntarfaceServices;
-using Domain.Interfaces.InterfaceCompraUsuario;
+﻿using Domain.Interfaces.InterfaceCompraUsuario;
+using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
 using Entities.Entities.Enums;
 using System;

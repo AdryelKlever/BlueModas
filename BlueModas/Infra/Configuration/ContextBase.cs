@@ -37,7 +37,7 @@ namespace Infra.Configuration
 
         private string GetStringConectionConfig()
         {
-            string strCon = "Data Source=DESKTOP-P1C9HE7;Initial Catalog=BlueModas;Integrated Security=False;User ID=sa;Password=123456;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+            string strCon = "Data Source=DESKTOP-HVNTI80\\DESENVOLVIMENTO;Initial Catalog=DDD_ECOMMERCE;Integrated Security=False;User ID=sa;Password=1234;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
             return strCon;
         }
 

@@ -1,0 +1,4 @@
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infra\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infra\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infra\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infra\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache

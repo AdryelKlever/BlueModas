@@ -1,0 +1,25 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Erro!</h1>
+<h2 class="text-danger">Um erro ocorreu durante o processamento do seu pedido!</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Solicitação:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Modo de Desenvolvimento</h3>
+<p>
+    Swapping to <strong>Development</strong> environment will display more detailed information about the error that occurred.
+</p>
+<p>
+    <strong>O ambiente de desenvolvimento não deve ser habilitado para aplicativos implantados.</strong>
+    Isso pode resultar na exibição de informações confidenciais de exceções para os usuários finais.
+    Para depuração local, habilite o <strong>Desenvolvimento</strong> ambiente, definindo o <strong>ASPNETCORE_ENVIRONMENT</strong> environment variable to <strong>Development</strong>
+    e reiniciando o aplicativo.
+</p>

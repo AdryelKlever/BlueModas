@@ -8,6 +8,7 @@ using System.Text;
 
 namespace Entities.Entities
 {
+
     [Table("TB_COMPRA_USUARIO")]
     public class CompraUsuario : Notifies
     {

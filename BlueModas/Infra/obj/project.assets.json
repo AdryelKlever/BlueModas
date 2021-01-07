@@ -5915,9 +5915,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adryel\\source\\repos\\BlueModas\\BlueModas\\Infra\\Infra.csproj",
-      "projectName": "Infra",
-      "projectPath": "C:\\Users\\Adryel\\source\\repos\\BlueModas\\BlueModas\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\Users\\Adryel\\source\\repos\\BlueModas\\BlueModas\\Infra\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\Users\\Adryel\\source\\repos\\BlueModas\\BlueModas\\Infra\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Adryel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Adryel\\source\\repos\\BlueModas\\BlueModas\\Infra\\obj\\",
       "projectStyle": "PackageReference",

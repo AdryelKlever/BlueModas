@@ -1,0 +1,12 @@
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.dll
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Entities\obj\Release\netcoreapp3.1\Entities.genruntimeconfig.cache

@@ -16,18 +16,18 @@ namespace Infrastructure.Repository.Repositories
     public class RepositoryCompraUsuario : RepositoryGenerics<CompraUsuario>, ICompraUsuario
     {
 
-        private readonly DbContextOptions<ContextBase> _optionsbuilder;
+        private readonly DbContextOptions<ApplicationDbContext> _optionsbuilder;
 
         public RepositoryCompraUsuario()
         {
-            _optionsbuilder = new DbContextOptions<ContextBase>();
+            _optionsbuilder = new DbContextOptions<ApplicationDbContext>();
         }
 
         public async Task<bool> ConfirmaCompraCarrinhoUsuario(string userId)
         {
             try
             {
-                using (var banco = new ContextBase(_optionsbuilder))
+                using (var banco = new ApplicationDbContext(_optionsbuilder))
                 {
                     var compraUsuario = new CompraUsuario();
                     compraUsuario.ListaProdutos = new List<Produto>();
@@ -57,7 +57,7 @@ namespace Infrastructure.Repository.Repositories
 
         public async Task<CompraUsuario> ProdutosCompradosPorEstado(string userId, EnumEstadoCompra estado)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 var compraUsuario = new CompraUsuario();
                 compraUsuario.ListaProdutos = new List<Produto>();
@@ -92,7 +92,7 @@ namespace Infrastructure.Repository.Repositories
 
         public async Task<int> QuantidadeProdutoCarrinhoUsuario(string userId)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 return await banco.CompraUsuario.CountAsync(c => c.UserId.Equals(userId) && c.Estado == EnumEstadoCompra.Produto_Carrinho);
             }

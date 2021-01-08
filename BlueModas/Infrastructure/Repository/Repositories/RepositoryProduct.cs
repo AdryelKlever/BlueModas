@@ -17,16 +17,16 @@ namespace Infrastructure.Repository.Repositories
     public class RepositoryProduct : RepositoryGenerics<Produto>, IProduct
     {
 
-        private readonly DbContextOptions<ContextBase> _optionsbuilder;
+        private readonly DbContextOptions<ApplicationDbContext> _optionsbuilder;
 
         public RepositoryProduct()
         {
-            _optionsbuilder = new DbContextOptions<ContextBase>();
+            _optionsbuilder = new DbContextOptions<ApplicationDbContext>();
         }
 
         public async Task<List<Produto>> ListarProdutos(Expression<Func<Produto, bool>> exProduto)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 return await banco.Produto.Where(exProduto).AsNoTracking().ToListAsync();
             }
@@ -34,7 +34,7 @@ namespace Infrastructure.Repository.Repositories
 
         public async Task<List<Produto>> ListarProdutosCarrinhoUsuario(string userId)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 var produtosCarrinhoUsuario = await (from p in banco.Produto
                                                      join c in banco.CompraUsuario on p.Id equals c.IdProduto
@@ -59,7 +59,7 @@ namespace Infrastructure.Repository.Repositories
 
         public async Task<Produto> ObterProdutoCarrinho(int idProdutoCarrinho)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 var produtosCarrinhoUsuario = await (from p in banco.Produto
                                                      join c in banco.CompraUsuario on p.Id equals c.IdProduto
@@ -84,7 +84,7 @@ namespace Infrastructure.Repository.Repositories
 
         public async Task<List<Produto>> ListarProdutosUsuario(string userId)
         {
-            using (var banco = new ContextBase(_optionsbuilder))
+            using (var banco = new ApplicationDbContext(_optionsbuilder))
             {
                 return await banco.Produto.Where(p => p.UserId == userId).AsNoTracking().ToListAsync();
             }

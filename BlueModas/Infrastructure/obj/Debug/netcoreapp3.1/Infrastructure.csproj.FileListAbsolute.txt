@@ -13,6 +13,8 @@ C:\Users\Adryel\Downloads\E-COMMERCE-AULA-16-master\E-COMMERCE-AULA-16-master\Ec
 C:\Users\Adryel\Downloads\E-COMMERCE-AULA-16-master\E-COMMERCE-AULA-16-master\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Adryel\Downloads\E-COMMERCE-AULA-16-master\E-COMMERCE-AULA-16-master\EcommerceDDD\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
@@ -26,3 +28,4 @@ C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\obj\Debug\netcor
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

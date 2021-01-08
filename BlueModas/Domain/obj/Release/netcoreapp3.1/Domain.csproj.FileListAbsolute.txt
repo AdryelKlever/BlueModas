@@ -1,0 +1,15 @@
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Adryel\source\repos\BlueModas\BlueModas\Domain\obj\Release\netcoreapp3.1\Domain.genruntimeconfig.cache
